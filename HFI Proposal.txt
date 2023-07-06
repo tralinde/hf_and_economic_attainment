@@ -1,0 +1,5 @@
+1.  In looking at this data set I would be interested in exploring the relationship between HFI and economic attainment.  The background for this is that autocratic societies (such as China) justifies suppression of individual rights under the argument that it is necessary to maintain stability to get rich before it gets old.  My research would exam globally to see if countries with poor performance on HFI demonstrate commensurate strength in economic growth.
+
+2.  It is not immediately clear what all of the columns represent, and there are plenty of missing values.  To make use of this data I would isolate a couple categories for comparison and dismiss rows with missing values so long as these do not comprise more than 5% of the data sample or 5% of the global population. 
+
+3.  My MVP would be a product which shows a comparison of economic growth as a comparison year over year in relation to a country's performance on HFI.  A stretch goal can parse this comparison into more categories i.e. personal freedom with regard to political assemply, self censorship, economic freedom, etc.
